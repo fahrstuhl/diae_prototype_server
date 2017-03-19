@@ -1,5 +1,5 @@
-#include "diaeserver.h"
 #include <QCoreApplication>
+#include "diaeserver.h"
 
 int main(int argc, char *argv[])
 {

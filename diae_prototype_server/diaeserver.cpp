@@ -1,6 +1,7 @@
 #include "diaeserver.h"
-#include "QtWebSockets/QWebSocketServer"
-#include "QtWebSockets/QWebSocket"
+#include <QtWebSockets/QWebSocketServer>
+#include <QtWebSockets/QWebSocket>
+#include <QtCore/QDebug>
 
 QT_USE_NAMESPACE
 
